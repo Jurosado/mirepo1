@@ -1,1 +1,2 @@
-"mirepo1" 
+# Mi proyecto
+Repositorio de programación avanzada
